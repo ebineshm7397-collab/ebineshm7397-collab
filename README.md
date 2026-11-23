@@ -22,9 +22,7 @@ Welcome to my GitHub profile! I'm interested in exploring technology, developing
 
 📊 GitHub Statistics
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ebineshm7397-collab&show_icons=true&theme=tokyonight)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ebineshm7397-collab&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebineshm7397-collab&show_icons=true&theme=tokyonight)
 
 🌐 Connect With Me
 
