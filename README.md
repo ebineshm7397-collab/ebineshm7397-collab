@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**ebineshm7397-collab/ebineshm7397-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Maurya Ebinesh M 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Student | Aspiring Ethical Hacker 
+
+Welcome to my GitHub profile! I'm interested in exploring technology, developing programming skills, and building projects that improve my problem-solving abilities.
+
+🚀 About Me
+
+- 🎓 Currently pursuing my education in Computer Science.
+- 💻 Interested in learning programming languages and concepts related to cybersecurity.
+- 🌱 Continuously learning new technologies.
+- 🔍 Exploring practical applications of coding and technology.
+
+🛠️ Skills & Technologies
+
+- Programming Languages: C, Python
+- Tools: Git, GitHub
+- Areas of Interest: Artificial Intelligence, Cybersecurity, Game Development
+
+
+📊 GitHub Statistics
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ebineshm7397-collab&show_icons=true&theme=tokyonight)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ebineshm7397-collab&layout=compact&theme=tokyonight)
+
+🌐 Connect With Me
+
+- GitHub: "ebineshm7397-collab" (https://github.com/ebineshm7397-collab)
+- LinkedIn: https://www.linkedin.com/in/maurya-ebinesh-m-b51a68441
+
+---
+
+⭐ Thanks for visiting my profile!
